@@ -1,2 +1,4 @@
-## Experiment Branch Update
-This section was added for branch testing.
+## Features
+-Git initialization
+- Branch management
+-GitHub collaboration
